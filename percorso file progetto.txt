@@ -1,0 +1,123 @@
+progetto
+│   index.html
+│   percorso file progetto.txt
+│   script.js
+│   style.css
+│   prossimamante.html
+|
+├───img
+└───products
+    ├───felpe
+    │   │   felpe.html
+    │   │
+    │   └───singoli
+    │       ├───nike
+    │       │   │   nike.html
+    │       │   │
+    │       │   ├───felpa1
+    │       │   │       felpa1.jpg
+    │       │   │
+    │       │   ├───felpa2
+    │       │   │       felpa2.jpg
+    │       │   │
+    │       │   └───felpa3
+    │       │           felpa3.jpg
+    │       │
+    │       └───palm_angels
+    │           │   palm_angels.html
+    │           │
+    │           ├───felpa1
+    │           │       felpa1.jpg
+    │           │
+    │           ├───felpa2
+    │           │       felpa2.jpg
+    │           │
+    │           └───felpa3
+    │                   felpa3.jpg
+    │
+    ├───magliette
+    │   │   magliette.html
+    │   │
+    │   └───singoli
+    │       ├───nike
+    │       │   │   nike.html
+    │       │   │
+    │       │   ├───maglietta1
+    │       │   │       maglietta1.jpg
+    │       │   │
+    │       │   ├───maglietta2
+    │       │   │       maglietta2.jpg
+    │       │   │
+    │       │   └───maglietta3
+    │       │           maglietta3.jpg
+    │       │
+    │       └───palm_angels
+    │           │   palm_angels.html
+    │           │
+    │           ├───maglietta1
+    │           │       maglietta1.jpg
+    │           │
+    │           ├───maglietta2
+    │           │       maglietta2.jpg
+    │           │
+    │           └───maglietta3
+    │                   maglietta3.jpg
+    │
+    ├───pantaloni
+    │   │   pantaloni.html
+    │   │
+    │   └───singoli
+    │       ├───nike
+    │       │   │   nike.html
+    │       │   │
+    │       │   ├───pantaloni1
+    │       │   │       pantaloni1.jpg
+    │       │   │
+    │       │   ├───pantaloni2
+    │       │   │       pantaloni2.jpg
+    │       │   │
+    │       │   └───pantaloni3
+    │       │           pantaloni3.jpg
+    │       │
+    │       └───palm_angels
+    │           │   palm_angels.html
+    │           │
+    │           ├───pantaloni1
+    │           │       pantaloni1.jpg
+    │           │
+    │           ├───pantaloni2
+    │           │       pantaloni2.jpg
+    │           │
+    │           └───pantaloni3
+    │                   pantaloni3.jpg
+    │
+    └───scarpe
+        │   scarpe.html
+        │
+        └───singoli
+            ├───dunk
+            │   │   dunk.html
+            │   │
+            │   ├───cacao
+            │   │       cacao.jpg
+            │   │
+            │   ├───olive
+            │   │       olive.jpg
+            │   │
+            │   └───panda
+            │           panda.jpg
+            │
+            ├───j1
+            ├───j4
+            │   │   jordan4.html
+            │   │
+            │   ├───black_cats
+            │   │       black_cats.jpg
+            │   │
+            │   ├───military_black
+            │   │       military_black.jpg
+            │   │
+            │   └───off_white
+            │           off_white.jpg
+            │
+            └───tn
